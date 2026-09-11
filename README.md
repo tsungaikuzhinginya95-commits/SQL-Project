@@ -21,5 +21,4 @@ Comprehensive SQL analysis of AdventureWorksLT2025 SalesLT database to evaluate 
 
 **Conclusion:** High-value single-purchase business with concentration risk on 11 products and 8 customers, selling top bikes below StandardCost while low-volume accessories sustain margin.
 
-**Copy for README.md:**
-> This repo contains SQL analysis of AdventureWorksLT2025 covering monthly trends, LTV segmentation, category profitability, product concentration, and retention. Key finding: 32 customers, 100% one-time, $956k revenue in 1 month, with top 3 bike categories driving 80% revenue at negative margin.
+> This repo contains SQL analysis of AdventureWorksLT20 product concentration, and retention. Key finding: 32 customers, 100% one-time, $956k revenue in 1 month, with top 3 bike categories driving 80% revenue at negative margin.
